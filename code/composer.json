@@ -1,0 +1,11 @@
+{
+    "name": "geekbrains/homework",
+    "autoload": {
+        "psr-4": {
+            "Geekbrains\\Homework\\": "src/"
+        }
+    },
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
